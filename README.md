@@ -22,16 +22,17 @@ These visualizations collectively offer insights into the distribution of track 
 6. Linear Regression Model for Predicting Track Popularity:
 
 The provided code implements a linear regression model using the scikit-learn library to predict the popularity of Spotify tracks based on the 'Date Added' feature. 
+
   Here is a general title overview:
-  Feature Selection:
-  Target Variable:
-  Data Preprocessing: 
-  Train-Test Split:
-  Pipeline Construction:
-  Model Training:
-  Prediction on Test Set:
-  Model Evaluation:
-  Prediction on New Data:
+1  Feature Selection:
+2  Target Variable:
+3  Data Preprocessing: 
+4  Train-Test Split:
+5  Pipeline Construction:
+6  Model Training:
+7  Prediction on Test Set:
+8  Model Evaluation:
+9  Prediction on New Data:
 
 Overall, this code provides a structured and reproducible approach to building, training, and evaluating a linear regression model for predicting track popularity. The use of a pipeline ensures proper feature scaling and model application, while the evaluation metric quantifies the model's predictive accuracy. The model is then demonstrated on new data to showcase its predictive capabilities beyond the training set.
 
