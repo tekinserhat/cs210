@@ -23,7 +23,7 @@ These visualizations collectively offer insights into the distribution of track 
 
 The provided code implements a linear regression model using the scikit-learn library to predict the popularity of Spotify tracks based on the 'Date Added' feature. 
 
-  Here is a general title overview:
+Here is a general title overview:
 1  Feature Selection:
 2  Target Variable:
 3  Data Preprocessing: 
